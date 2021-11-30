@@ -1,5 +1,4 @@
-# PROJECT NAME
-Airline Ticketing Kiosk
+# Airline Ticketing Kiosk
 
 ## Project Description
 
